@@ -9,7 +9,7 @@
   ➡ Mail anthony.issa@hotmail.fr
 <br>
 
-![MadderStone's GitHub stats](https://github-readme-stats.vercel.app/api?username=madderstone&show_icons=true&theme=jolly) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madderstone&layout=compact&theme=jolly&langs_count=500)](https://github.com/anuraghazra/github-readme-stats)
+![MadderStone's GitHub stats](https://github-readme-stats.vercel.app/api?username=madderstone&show_icons=true&theme=jolly) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madderstone&layout=compact&theme=jolly&langs_count=499)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 MadderStone/MadderStone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
