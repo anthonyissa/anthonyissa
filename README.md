@@ -5,8 +5,8 @@
 - 👀 I’m interested in programming
 - 📚 I’m currently learning Angular and MongoDB
 - 📩 How to reach me ?<br>
-  ➡ Discord AitoX#0001 <br>
-  ➡ Mail anthony.issa@hotmail.fr
+    ➡ Discord AitoX#0001 <br>
+    ➡ Mail anthony.issa@hotmail.fr
 <br>
 
 ![MadderStone's GitHub stats](https://github-readme-stats.vercel.app/api?username=madderstone&show_icons=true&theme=jolly) 
