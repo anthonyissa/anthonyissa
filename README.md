@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @MadderStone / Anthony ISSA
 - 👀 I’m interested in programming
-- 📚 I’m currently learning Angular and MongoDB
+- 📚 I’m currently learning Angular, Spring and MongoDB
 - 📩 How to reach me ?<br>
     ➡ Discord AitoX#0001 <br>
     ➡ Mail anthony.issa@hotmail.fr
