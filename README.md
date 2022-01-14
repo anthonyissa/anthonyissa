@@ -5,7 +5,7 @@
 - 👀 I’m interested in programming
 - 📚 I’m currently learning Angular, Spring and MongoDB
 - 📩 How to reach me ?<br>
-    ➡ Discord AitoX#0001 <br>
+    ➡ Discord Anthony ISSA#0001 <br>
     ➡ Mail anthony.issa@hotmail.fr
 <br>
 
