@@ -3,9 +3,9 @@
 
 - 👋 Hi, I’m @MadderStone / Anthony ISSA
 - 👀 I’m interested in programming
-- 📚 I’m currently working with Angular, Spring and MongoDB
+- 📚 I’m currently working on web3 projects
 - 📩 How to reach me ?<br>
-    ➡ Discord AitoX#0001 <br>
+    ➡ Discord AitoX#6532 <br>
     ➡ Mail anthony.issa@hotmail.fr
 <br>
 
