@@ -2,11 +2,17 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9bc27292880429.5e569ff84e4d0.gif" height="500px"></img>
 
 - 👋 Hi, I’m Anthony ISSA
-- 👀 I’m interested in programming
+- 👀 I’m interested in blockchain and programming
 - 📚 I’m currently working on web3 projects
 - 📩 How to reach me ?<br>
     ➡ Discord AitoX#6532 <br>
     ➡ Mail anthony.issa@hotmail.fr
+ <br>
+- 🖇️ Links
+
+[My Website](https://www.anthony-issa.com/) | 
+[Linkedin](https://www.linkedin.com/in/anthony-issa-0081a11bb/)
+
 <br>
 
 ![MadderStone's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyissa&show_icons=true&theme=jolly) 
