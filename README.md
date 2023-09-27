@@ -5,8 +5,8 @@
 - 👀 I’m interested in blockchain and programming
 - 📚 I’m currently working on web3 projects
 - 📩 How to reach me ?<br>
-    ➡ Discord AitoX#6532 <br>
-    ➡ Mail anthony.issa@hotmail.fr
+    ➡ Discord ait0x <br>
+    ➡ X @anthonyissa_
  <br>
 - 🖇️ Links
 
