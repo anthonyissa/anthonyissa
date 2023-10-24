@@ -7,7 +7,7 @@
 ## About me 🤔
 - 👀 I’m interested in blockchain and programming.
 - 📚 Currently blockchain fullstack developer @ [Digital Asset Solutions](https://digitalassetsolutions.fr/){:target="_blank"}
-- <a href="placeholder.com" target="_blank">Opens in new tab</a>
+- <a href="https://digitalassetsolutions.fr/" target="_blank">Opens in new tab</a>
 - 💡 My daily life is made of: building and pitching projects, hackathons, exploring web3 & tech spaces.
 
 ## Links 🖇️
