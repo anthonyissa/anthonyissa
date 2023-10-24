@@ -77,7 +77,7 @@
 I am based in Paris 🇫🇷 and can work remotely.
 I speak French, English, Arabic und ein bisschen Deutsch.
 
-## Prize Won 🏆
+## Prizes Won 🏆
 
 | What | When | Where |
 | --- | --- | --- |
