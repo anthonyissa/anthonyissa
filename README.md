@@ -1,21 +1,28 @@
+# Anthony ISSA ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=anthonyissa.readme)
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9bc27292880429.5e569ff84e4d0.gif" height="500px"></img>
+👋 Hi! I’m Anthony, 21, blockchain fullstack developer and tech addict.
 
-- 👋 Hi, I’m Anthony ISSA
-- 👀 I’m interested in blockchain and programming
-- 📚 I’m currently working on web3 projects
-- 📩 How to reach me ?<br>
-    ➡ Discord: ait0x <br>
-    ➡ X: @anthonyissa_
- <br>
-- 🖇️ Links
+![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyissa&show_icons=true&theme=jolly) 
 
-[My Website](https://www.anthony-issa.com/) | 
-[Linkedin](https://www.linkedin.com/in/anthony-issa-0081a11bb/)
+## About me 🤔
+- 👀 I’m interested in blockchain and programming.
+- 📚 Currently blockchain fullstack developer @ [Digital Asset Solutions](https://digitalassetsolutions.fr/)
+- 💡 My daily life is made of: building and pitching projects, hackathons, exploring web3 & tech spaces.
 
-<br>
+## Links 🖇️
 
-![MadderStone's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyissa&show_icons=true&theme=jolly) 
+💡 [My Website](https://www.anthony-issa.com/) <br><br>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-issa-0081a11bb/)
+[![Twitter](https://img.shields.io/badge/Twitter-lightblue?logo=twitter)](https://x.com/anthonyissa_)
+[![Discord](https://img.shields.io/badge/Discord-white?logo=discord)](https://discord.com/users/229511387859255306)
+[![Discord](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anthony.issa@hotmail.fr)
+
+## Programming languages
+
+![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Solidity-darkblue?logo=solidity&logoColor=gray)
+
+![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
 <!---
 MadderStone/MadderStone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
