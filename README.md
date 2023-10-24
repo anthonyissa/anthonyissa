@@ -83,7 +83,7 @@ I speak French, English, Arabic und ein bisschen Deutsch.
 | --- | --- | --- |
 | 1st @ EthGlobal Paris | Jul' 2023 | [EthGlobal](https://ethglobal.com/showcase/on-chain-messaging-aggregator-3eshd) |
 | 2nd @ HEC Paris Hackathon | Oct' 2023 | [HEC Paris](https://www.hec.edu/en) |
-| +12k $ @ EthGlobal New York | Sept' 2023 | [Neobloom](https://ethglobal.com/showcase/zerofi-tatma) |
+| +12k $ @ EthGlobal New York | Sept' 2023 | [EthGlobal](https://ethglobal.com/showcase/zerofi-tatma) |
 
 ## Work Experiences 🧑‍💻
 
