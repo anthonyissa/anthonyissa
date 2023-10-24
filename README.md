@@ -35,7 +35,7 @@
 ![Foundry](https://img.shields.io/badge/Foundry-black?logo=foundry&logoColor=white)
 ![Alchemy](https://img.shields.io/badge/Alchemy-darkblue?logo=alchemy&logoColor=white)
 
-### Programming languages
+### Languages & Frameworks
 
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
@@ -45,7 +45,12 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/c-A8B9CC.svg?logo=c-sharp&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?logo=c-sharp&logoColor=white)
-
+<br>
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white)
 
 ### Database
 
