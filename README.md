@@ -1,4 +1,4 @@
-# Anthony ISSA ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=anthonyissa.fastlog)
+# Anthony ISSA ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=anthonyissa.readme)
 
 👋 Hi! I’m Anthony, 21, blockchain fullstack developer and tech addict.
 
