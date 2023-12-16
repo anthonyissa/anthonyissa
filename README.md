@@ -92,6 +92,7 @@ I speak French, English, Arabic und ein bisschen Deutsch.
 | Blockchain Fullstack Developer | Sep' 2022-Today | [Digital Asset Solutions](https://digitalassetsolutions.fr/) |
 | Co-Founder | Jan' 2023-Today | [Neobloom](https://neobloom.fr/) |
 | Computer Science Tutor | 2022 | [My Website](https://anthony-issa.com/) |
+| Operations Manager France | 2021 | [Worldcoin](https://worldcoin.org/) |
 | Fullstack Developer | 2021-2022 | [Storyzy](https://storyzy.com/) |
 
 ## Studies 📚
