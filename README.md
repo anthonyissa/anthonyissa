@@ -81,6 +81,7 @@ I speak French, English, Arabic und ein bisschen Deutsch.
 
 | What | When | Where |
 | --- | --- | --- |
+| Blast's Big Bang Competition | Feb' 2024 | [Blast](https://blast.io/) - [Tornado Blast Bot](https://twitter.com/TornadoBlastBot) |
 | 1st @ EthGlobal Paris | Jul' 2023 | [EthGlobal](https://ethglobal.com/showcase/on-chain-messaging-aggregator-3eshd) |
 | 2nd @ HEC Paris Hackathon | Oct' 2023 | [HEC Paris](https://www.hec.edu/en) |
 | +12k $ @ EthGlobal New York | Sept' 2023 | [EthGlobal](https://ethglobal.com/showcase/zerofi-tatma) |
