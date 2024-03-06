@@ -15,7 +15,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-lightblue?logo=twitter)](https://x.com/anthonyissa_)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-issa-0081a11bb/)
 [![Discord](https://img.shields.io/badge/Discord-white?logo=discord)](https://discord.com/users/229511387859255306)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anthony.issa@hotmail.fr)
 
 ## Tech stuff I use 💻
 
