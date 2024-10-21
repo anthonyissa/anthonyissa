@@ -1,6 +1,6 @@
 # Anthony ISSA ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=anthonyissa.readme)
 
-👋 Hi! I’m Anthony, 21, blockchain fullstack developer and tech addict.
+👋 Hi! I’m Anthony, 22, blockchain fullstack developer and tech addict.
 
 ![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyissa&show_icons=true&theme=jolly) 
 
