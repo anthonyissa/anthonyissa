@@ -12,7 +12,7 @@
 ## Links 🖇️
 
 💡 [My Website](https://www.anthony-issa.com/) <br><br>
-[![Twitter](https://img.shields.io/badge/Twitter-lightblue?logo=twitter)](https://x.com/anthonyissa_)
+[![Twitter](https://img.shields.io/badge/Twitter-lightblue?logo=twitter)](https://x.com/0xaitox)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-issa-0081a11bb/)
 [![Discord](https://img.shields.io/badge/Discord-white?logo=discord)](https://discord.com/users/229511387859255306)
 
